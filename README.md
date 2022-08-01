@@ -15,7 +15,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&labelColor=FFF2F1&logoColor=FF2D20)
 
 ## :chart_with_upwards_trend: GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketrindorofeeva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=ketrindorofeeva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow Me

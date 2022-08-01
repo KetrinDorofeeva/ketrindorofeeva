@@ -1,4 +1,4 @@
-## :raising_hand: Welcome
+## :raising_hand: Welcome ![](https://komarev.com/ghpvc/?username=ketrindorofeeva)
 
 ## :grinning: About Me
 :v: My name is Katya, I am 21 years old. I'm a web developer. I am determined to improve my skills as well as to learn new technologies, want to do what I love in an interesting and promising company.

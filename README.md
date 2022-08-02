@@ -1,7 +1,7 @@
 ## :raising_hand: Welcome
 
 ## :grinning: About Me
-:v: My name is Katya, I am 21 years old. I'm a web developer. I am determined to improve my skills as well as to learn new technologies, want to do what I love in an interesting and promising company.
+:v: My name is Katya, I am 21 years old. I do web development. I am determined to improve my skills as well as to learn new technologies, want to do what I love in an interesting and promising company.
 
 :mortar_board: I have a secondary vocational education, graduated from the College of Information Technology with honors. I rate myself as a punctual, responsible and executive specialist.
 

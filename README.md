@@ -14,12 +14,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&labelColor=EFF8FF&logoColor=4479A1)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&labelColor=FFF2F1&logoColor=FF2D20)
 
-## :chart_with_upwards_trend: GitHub Stats
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=ketrindorofeeva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva)](https://github.com/ketrindorofeev/github-readme-stats)
+## :chart_with_upwards_trend: GitHub Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva)](https://github.com/ketrindorofeeva/github-readme-stats)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketrindorofeeva&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ketrindorofeeva&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketrindorofeeva&theme=github)
 
 ## Follow Me
 [![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&labelColor=E7F2FE&logoColor=0077FF)](https://vk.com/kdorf7)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&labelColor=FFF9FA&logoColor=E4405F)](https://www.instagram.com/kdorf7)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ketrindorofeeva&repo=website-cafe-restaurant-pleasure)](https://github.com/ketrindorofeeva/website-cafe-restaurant-pleasure)

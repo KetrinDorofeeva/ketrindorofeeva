@@ -16,8 +16,10 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=ketrindorofeeva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva)](https://github.com/ketrindorofeev/github-readme-stats)
 
 ## Follow Me
 [![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&labelColor=E7F2FE&logoColor=0077FF)](https://vk.com/kdorf7)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&labelColor=FFF9FA&logoColor=E4405F)](https://www.instagram.com/kdorf7)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ketrindorofeeva&repo=website-cafe-restaurant-pleasure)](https://github.com/ketrindorofeeva/website-cafe-restaurant-pleasure)

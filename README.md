@@ -1,4 +1,4 @@
-## :raising_hand: Добро пожаловать
+## :raising_hand: Welcome
 
 ## :grinning: Обо мне
 :v: Меня зовут Катя, мне 21 год. Я занимаюсь веб-разработкой, настроена на усовершенствование своих навыков, а также на изучение новых технологий. Хочу заниматься любимым делом в интересной и перспективной компании.
@@ -20,6 +20,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ketrindorofeeva&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketrindorofeeva&theme=github)
 
-## Follow Me
+## Мои соц.сети
 [![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&labelColor=E7F2FE&logoColor=0077FF)](https://vk.com/kdorf7)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&labelColor=FFF9FA&logoColor=E4405F)](https://www.instagram.com/kdorf7)

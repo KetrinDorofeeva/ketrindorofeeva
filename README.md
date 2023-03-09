@@ -23,4 +23,3 @@
 
 ## Мои соц.сети
 [![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&labelColor=E7F2FE&logoColor=0077FF)](https://vk.com/kdorf7)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&labelColor=FFF9FA&logoColor=E4405F)](https://www.instagram.com/kdorf7)

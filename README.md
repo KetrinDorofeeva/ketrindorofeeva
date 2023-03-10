@@ -21,5 +21,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ketrindorofeeva&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketrindorofeeva&theme=github)
 
-## Мои соц.сети
+## Мои соц.сети и почта
 [![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&labelColor=E7F2FE&logoColor=0077FF)](https://vk.com/kdorf7)
+[![Mail](https://img.shields.io/badge/-Mail.Ru-005FF9?style=for-the-badge&logo=Mail.Ru&labelColor=EEF4FF&logoColor=005FF9)](mailto:multiveb@mail.ru)

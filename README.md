@@ -6,14 +6,15 @@
 :mortar_board: Имею среднее профессиональное образование, окончила колледж информационных технологий на красный диплом. Я оцениваю себя как пунктуального, ответственного и исполнительного специалиста.
 
 ## Языки программирования и инструменты
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&labelColor=FFF6E8)
-![CSS](https://img.shields.io/badge/-CSS-1572B5?style=for-the-badge&logo=CSS3&labelColor=EAEBFE&logoColor=1572B5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-800080?style=for-the-badge&logo=Bootstrap&labelColor=F4E7F4&logoColor=800080)
-![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=Git&labelColor=FFEEEB&logoColor=F05033)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=FFFDF1&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&labelColor=F0F1FA&logoColor=777BB4)
-![Yii](https://img.shields.io/badge/-Yii-blue?style=for-the-badge&logo=Framework7&labelColor=F8F8FF&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&labelColor=EFF8FF&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/-HTML-e44d25?style=for-the-badge&logo=HTML5&labelColor=fcede9&logoColor=e44d25)
+![CSS](https://img.shields.io/badge/-CSS-214ce5?style=for-the-badge&logo=CSS3&labelColor=e9edfc&logoColor=214ce5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-860afb?style=for-the-badge&logo=Bootstrap&labelColor=f3e7ff&logoColor=860afb)
+![Git](https://img.shields.io/badge/-Git-f05030?style=for-the-badge&logo=Git&labelColor=feeeea&logoColor=f05030)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&labelColor=fefce9&logoColor=f7df1e)
+![Vue](https://img.shields.io/badge/-Vue.js-3fb27f?style=for-the-badge&logo=Vue.js&labelColor=ecf7f2&logoColor=3fb27f)
+![PHP](https://img.shields.io/badge/-PHP-787cb4?style=for-the-badge&logo=PHP&labelColor=f2f2f8&logoColor=787cb4)
+![Yii](https://img.shields.io/badge/-Yii-0083cb?style=for-the-badge&logo=Framework7&labelColor=e6f3fa&logoColor=0083cb)
+![MySQL](https://img.shields.io/badge/-MySQL-007690?style=for-the-badge&logo=MySQL&labelColor=e6f1f4&logoColor=007690)
 
 ## :chart_with_upwards_trend: GitHub статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindorofeeva)](https://github.com/ketrindorofeeva/github-readme-stats)  
